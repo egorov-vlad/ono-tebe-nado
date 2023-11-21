@@ -8,13 +8,9 @@
   margin: 0 auto;
 }
 
-.header__menu {
-  padding-top: 2px;
-}
-
 .header__links-list {
   display: flex;
-  gap: 15px;
+  gap: 8px;
   color: #000;
   font-size: 18px;
   list-style: circle inside;
@@ -30,7 +26,7 @@
 }
 
 .header__logo {
-  padding-right: 158px;
+  padding-right: 150px;
 }
 
 .header__logo-image {
@@ -118,7 +114,7 @@
   font-style: normal;
   font-weight: 400;
   line-height: 28px; /* 127.273% */
-  word-spacing: 19px;
+  word-spacing: 18px;
 }
 
 .bet-button {
